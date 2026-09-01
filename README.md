@@ -18,7 +18,6 @@
 
 ### 🚀 About Me
 
-- ME A little Harvard Student doing Electrical Engineering and Computer Science, but more interested in backend
 - 🔭 Working through a structured **backend development path** on [Boot.dev](https://boot.dev), centered on **TypeScript**, HTTP, and system design fundamentals
 - ✅ Just earned my certificate for **Learn HTTP Servers in TypeScript** — up next: **File Servers & CDNs**, **Docker**, and **Pub/Sub Architecture**
 - 📚 Reading *HTTP: The Definitive Guide* and working through Hussein Nasser's **Fundamentals of Backend Engineering**, alongside the main path
